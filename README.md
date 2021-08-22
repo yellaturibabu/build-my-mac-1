@@ -11,13 +11,13 @@ xcode-select --install
 
 ## ⚡ Install Apps
 ```
-curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/brew_apps.sh | sh
+curl -L https://raw.githubusercontent.com/amitchandrakar/build-my-mac/master/scripts/brew_apps.sh | sh
 ```
 
 ## ⚡ Install AppStore Apps
 ###### Note: You need to have logged to apple account before using the below command
 ```
-curl -L https://raw.githubusercontent.com/Froiden/build-my-mac/master/scripts/mas_apps.sh | sh
+curl -L https://raw.githubusercontent.com/amitchandrakar/build-my-mac/master/scripts/mas_apps.sh | sh
 ```
 
 ## ⚡ Node Install (nvm/node)
