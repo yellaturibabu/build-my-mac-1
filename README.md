@@ -70,7 +70,3 @@ nvm install stable
 ##  ⚡ Configure Git Profile 
 - Configure local Git profile
 
-```
-git config --global user.name "Amit Kumar Chandrakar"
-git config --global user.email "email@example.com"
-```
